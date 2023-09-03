@@ -1,0 +1,14 @@
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.exe.config
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.exe
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.pdb
+F:\проекты в резюме\тинь\тинь\obj\Debug\Arena.csproj.AssemblyReference.cache
+F:\проекты в резюме\тинь\тинь\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.exe
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.pdb
+F:\проекты_в_резюме\тинь\тинь\bin\Debug\тинь.exe.config
+F:\проекты_в_резюме\тинь\тинь\bin\Debug\тинь.exe
+F:\проекты_в_резюме\тинь\тинь\bin\Debug\тинь.pdb
+F:\проекты_в_резюме\тинь\тинь\obj\Debug\Arena.csproj.AssemblyReference.cache
+F:\проекты_в_резюме\тинь\тинь\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+F:\проекты_в_резюме\тинь\тинь\obj\Debug\тинь.exe
+F:\проекты_в_резюме\тинь\тинь\obj\Debug\тинь.pdb

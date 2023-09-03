@@ -1,0 +1,8 @@
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.exe.config
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.exe
+F:\проекты в резюме\тинь\тинь\bin\Debug\тинь.pdb
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.csproj.AssemblyReference.cache
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.csproj.SuggestedBindingRedirects.cache
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.csproj.CoreCompileInputs.cache
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.exe
+F:\проекты в резюме\тинь\тинь\obj\Debug\тинь.pdb
